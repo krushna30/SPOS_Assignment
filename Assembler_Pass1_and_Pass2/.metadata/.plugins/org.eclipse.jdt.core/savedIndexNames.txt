@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/run/media/pict/HP_KALPESH/SPOS_lab/ASS2_self/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
